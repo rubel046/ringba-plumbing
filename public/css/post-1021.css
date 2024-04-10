@@ -1,0 +1,1545 @@
+.elementor-1021 .elementor-element.elementor-element-4fa5b7d3 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc(
+        (1 - var(--container-widget-flex-grow)) * 100%
+    );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: center;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.9;
+    --border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-4fa5b7d3:not(
+        .elementor-motion-effects-element-type-background
+    ),
+.elementor-1021
+    .elementor-element.elementor-element-4fa5b7d3
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-color: #2e87ad;
+    background-image: url("https://www.laportapottyrental.com/wp-content/uploads/Los-Angeles-porta-potty-slider-bg.jpg");
+}
+
+.elementor-1021 .elementor-element.elementor-element-4fa5b7d3::before,
+.elementor-1021
+    .elementor-element.elementor-element-4fa5b7d3
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-4fa5b7d3
+    > .e-con-inner
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-4fa5b7d3
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-4fa5b7d3
+    > .e-con-inner
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-4fa5b7d3
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer::before {
+    --background-overlay: "";
+    background-color: #2e87ad;
+}
+
+.elementor-1021 .elementor-element.elementor-element-4fa5b7d3,
+.elementor-1021 .elementor-element.elementor-element-4fa5b7d3::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-4fa5b7d3.e-con {
+    --align-self: center;
+}
+
+.elementor-1021 .elementor-element.elementor-element-4b3a1e63 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --padding-block-start: 0%;
+    --padding-block-end: 0%;
+    --padding-inline-start: 0%;
+    --padding-inline-end: 0%;
+}
+
+.elementor-1021 .elementor-element.elementor-element-4b3a1e63.e-con {
+    --align-self: center;
+}
+
+.elementor-1021 .elementor-element.elementor-element-4f8c578c {
+    text-align: left;
+    color: #ffffff;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 78px;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-4f8c578c
+    > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-1021 .elementor-element.elementor-element-2e9427a7 {
+    color: #ffffff;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 75px;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-2e9427a7
+    > .elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-1021 .elementor-element.elementor-element-6a4fcefb {
+    color: #ffffff;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-6a4fcefb
+    > .elementor-widget-container {
+    padding: 0px 0px 20px 0px;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-1fdbf87c
+    .elementor-button {
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    fill: #ffffff;
+    color: #ffffff;
+    background-color: #d68215;
+    border-radius: 5px 5px 5px 5px;
+    padding: 20px 30px 20px 30px;
+}
+
+.elementor-1021 .elementor-element.elementor-element-57f06447 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-54b28217.elementor-element {
+    --align-self: center;
+    --order: 99999 /* order end hack */;
+}
+
+.elementor-1021 .elementor-element.elementor-element-530bb22c {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.7;
+    --padding-block-start: 8%;
+    --padding-block-end: 8%;
+    --padding-inline-start: 0%;
+    --padding-inline-end: 0%;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-530bb22c:not(
+        .elementor-motion-effects-element-type-background
+    ),
+.elementor-1021
+    .elementor-element.elementor-element-530bb22c
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-image: url("https://www.laportapottyrental.com/wp-content/uploads/home-texture-bg.jpg");
+    background-size: cover;
+}
+
+.elementor-1021 .elementor-element.elementor-element-530bb22c::before,
+.elementor-1021
+    .elementor-element.elementor-element-530bb22c
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-530bb22c
+    > .e-con-inner
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-530bb22c
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-530bb22c
+    > .e-con-inner
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-530bb22c
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer::before {
+    --background-overlay: "";
+    background-color: #ffffff;
+}
+
+.elementor-1021 .elementor-element.elementor-element-530bb22c,
+.elementor-1021 .elementor-element.elementor-element-530bb22c::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-530bb22c
+    > .elementor-shape-top
+    .elementor-shape-fill,
+.elementor-1021
+    .elementor-element.elementor-element-530bb22c
+    > .e-con-inner
+    > .elementor-shape-top
+    .elementor-shape-fill {
+    fill: #246a88;
+}
+
+.elementor-1021 .elementor-element.elementor-element-507bf52e {
+    --display: flex;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --padding-block-start: 0px;
+    --padding-block-end: 0px;
+    --padding-inline-start: 0px;
+    --padding-inline-end: 0px;
+}
+
+.elementor-1021 .elementor-element.elementor-element-507bf52e.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-1021 .elementor-element.elementor-element-421bd0c9 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-27a2fa8a {
+    text-align: center;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-27a2fa8a
+    .elementor-heading-title {
+    color: #246a88;
+}
+
+.elementor-1021 .elementor-element.elementor-element-4a485a6b {
+    columns: 1;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.elementor-1021 .elementor-element.elementor-element-53eb62de {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-1682d803
+    .elementor-icon-list-icon
+    i {
+    color: #2e87ad;
+    transition: color 0.3s;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-1682d803
+    .elementor-icon-list-icon
+    svg {
+    fill: #2e87ad;
+    transition: fill 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-1682d803 {
+    --e-icon-list-icon-size: 40px;
+    --icon-vertical-align: center;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-1682d803
+    .elementor-icon-list-icon {
+    padding-right: 15px;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-1682d803
+    .elementor-icon-list-item
+    > .elementor-icon-list-text,
+.elementor-1021
+    .elementor-element.elementor-element-1682d803
+    .elementor-icon-list-item
+    > a {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-1682d803
+    .elementor-icon-list-text {
+    transition: color 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-4ff3b41c {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc(
+        (1 - var(--container-widget-flex-grow)) * 100%
+    );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: center;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-4ff3b41c,
+.elementor-1021 .elementor-element.elementor-element-4ff3b41c::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-4ff3b41c.e-con {
+    --align-self: center;
+}
+
+.elementor-1021 .elementor-element.elementor-element-56773e99 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-37baf962 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-45e0cf0c {
+    --display: flex;
+    --background-transition: 0.3s;
+    --padding-block-start: 08%;
+    --padding-block-end: 01%;
+    --padding-inline-start: 0%;
+    --padding-inline-end: 0%;
+}
+
+.elementor-1021 .elementor-element.elementor-element-1d93597 {
+    text-align: center;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-1d93597
+    .elementor-heading-title {
+    color: #6ec1e4;
+}
+
+.elementor-1021 .elementor-element.elementor-element-6f99bc3a {
+    --divider-border-style: double;
+    --divider-color: #000;
+    --divider-border-width: 1px;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-6f99bc3a
+    .elementor-divider-separator {
+    width: 100%;
+    margin: 0 auto;
+    margin-center: 0;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-6f99bc3a
+    .elementor-divider {
+    text-align: center;
+    padding-block-start: 15px;
+    padding-block-end: 15px;
+}
+
+.elementor-1021 .elementor-element.elementor-element-14f9bc81 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --gap: 0px 0px;
+    --flex-wrap: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-14ce747b {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0;
+    --border-radius: 5% 5% 5% 5%;
+    --padding-block-start: 0%;
+    --padding-block-end: 0%;
+    --padding-inline-start: 0%;
+    --padding-inline-end: 0%;
+}
+
+.elementor-1021 .elementor-element.elementor-element-14ce747b::before,
+.elementor-1021
+    .elementor-element.elementor-element-14ce747b
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-14ce747b
+    > .e-con-inner
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-14ce747b
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-14ce747b
+    > .e-con-inner
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-14ce747b
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer::before {
+    --background-overlay: "";
+    background-color: #cccccc;
+}
+
+.elementor-1021 .elementor-element.elementor-element-14ce747b,
+.elementor-1021 .elementor-element.elementor-element-14ce747b::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-4d777f90 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-2e8d577a {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-e851151 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --padding-block-start: 0%;
+    --padding-block-end: 8%;
+    --padding-inline-start: 0%;
+    --padding-inline-end: 0%;
+}
+
+.elementor-1021 .elementor-element.elementor-element-3ff99a30 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-1a59e3dd {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-394828bf {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.82;
+    --padding-block-start: 8%;
+    --padding-block-end: 8%;
+    --padding-inline-start: 0%;
+    --padding-inline-end: 0%;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-394828bf:not(
+        .elementor-motion-effects-element-type-background
+    ),
+.elementor-1021
+    .elementor-element.elementor-element-394828bf
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-image: url("https://www.laportapottyrental.com/wp-content/uploads/los-angeles-porta-potty-1.jpg");
+    background-size: cover;
+}
+
+.elementor-1021 .elementor-element.elementor-element-394828bf::before,
+.elementor-1021
+    .elementor-element.elementor-element-394828bf
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-394828bf
+    > .e-con-inner
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-394828bf
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-394828bf
+    > .e-con-inner
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-394828bf
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer::before {
+    --background-overlay: "";
+    background-color: #246a88;
+}
+
+.elementor-1021 .elementor-element.elementor-element-394828bf,
+.elementor-1021 .elementor-element.elementor-element-394828bf::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-12fce78a {
+    text-align: center;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-12fce78a
+    .elementor-heading-title {
+    color: #ffffff;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-7e7a3f6a.elementor-arrows-yes
+    .elementor-main-swiper {
+    width: calc(65% - 40px);
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-7e7a3f6a
+    .elementor-main-swiper {
+    width: 65%;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-7e7a3f6a
+    .elementor-swiper-button {
+    font-size: 20px;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-7e7a3f6a
+    .elementor-testimonial__content {
+    padding: 20px 20px 20px 20px;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-7e7a3f6a.elementor-testimonial--layout-image_left
+    .elementor-testimonial__footer,
+.elementor-1021
+    .elementor-element.elementor-element-7e7a3f6a.elementor-testimonial--layout-image_right
+    .elementor-testimonial__footer {
+    padding-top: 20px;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-7e7a3f6a.elementor-testimonial--layout-image_above
+    .elementor-testimonial__footer,
+.elementor-1021
+    .elementor-element.elementor-element-7e7a3f6a.elementor-testimonial--layout-image_inline
+    .elementor-testimonial__footer,
+.elementor-1021
+    .elementor-element.elementor-element-7e7a3f6a.elementor-testimonial--layout-image_stacked
+    .elementor-testimonial__footer {
+    padding: 0 20px 0 20px;
+}
+
+.elementor-1021 .elementor-element.elementor-element-525efe6c {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --gap: 0px 0px;
+    --flex-wrap: wrap;
+    --background-transition: 0.3s;
+    --padding-block-start: 2%;
+    --padding-block-end: 2%;
+    --padding-inline-start: 0%;
+    --padding-inline-end: 0%;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-525efe6c:not(
+        .elementor-motion-effects-element-type-background
+    ),
+.elementor-1021
+    .elementor-element.elementor-element-525efe6c
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-color: #246a88;
+}
+
+.elementor-1021 .elementor-element.elementor-element-525efe6c,
+.elementor-1021 .elementor-element.elementor-element-525efe6c::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-525efe6c.e-con {
+    --align-self: center;
+}
+
+.elementor-1021 .elementor-element.elementor-element-4e7e3c7d {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-1e949a21 {
+    text-align: center;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-1e949a21
+    .elementor-heading-title {
+    color: #ffffff;
+}
+
+.elementor-1021 .elementor-element.elementor-element-aecf2cb {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-1b1d9e0b
+    .elementor-button {
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 700;
+    fill: #2e87ad;
+    color: #2e87ad;
+    background-color: #ffffff;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #2e87ad;
+}
+
+.elementor-1021 .elementor-element.elementor-element-63d31d35 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --padding-block-start: 8%;
+    --padding-block-end: 0%;
+    --padding-inline-start: 0%;
+    --padding-inline-end: 0%;
+}
+
+.elementor-1021 .elementor-element.elementor-element-3849ac8 {
+    text-align: center;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-3849ac8
+    .elementor-heading-title {
+    color: #6ec1e4;
+}
+
+.elementor-1021 .elementor-element.elementor-element-6f0497e {
+    --divider-border-style: double;
+    --divider-color: #000;
+    --divider-border-width: 1px;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-6f0497e
+    .elementor-divider-separator {
+    width: 76%;
+    margin: 0 auto;
+    margin-center: 0;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-6f0497e
+    .elementor-divider {
+    text-align: center;
+    padding-block-start: 15px;
+    padding-block-end: 15px;
+}
+
+.elementor-1021 .elementor-element.elementor-element-6440c6e9 {
+    --display: flex;
+    --min-height: 0px;
+    --flex-direction: row;
+    --container-widget-width: calc(
+        (1 - var(--container-widget-flex-grow)) * 100%
+    );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: stretch;
+    --gap: 0px 0px;
+    --flex-wrap: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-408c1d58 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.9;
+    --margin-block-start: 0%;
+    --margin-block-end: 0%;
+    --margin-inline-start: 0%;
+    --margin-inline-end: 0%;
+    --padding-block-start: 2%;
+    --padding-block-end: 2%;
+    --padding-inline-start: 2%;
+    --padding-inline-end: 2%;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-408c1d58:not(
+        .elementor-motion-effects-element-type-background
+    ),
+.elementor-1021
+    .elementor-element.elementor-element-408c1d58
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-color: #2e87ad;
+    background-image: url("https://www.laportapottyrental.com/wp-content/uploads/los-angeles-concert-porta-potty-rentals.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-1021 .elementor-element.elementor-element-408c1d58::before,
+.elementor-1021
+    .elementor-element.elementor-element-408c1d58
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-408c1d58
+    > .e-con-inner
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-408c1d58
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-408c1d58
+    > .e-con-inner
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-408c1d58
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer::before {
+    --background-overlay: "";
+    background-color: #2e87ad;
+}
+
+.elementor-1021 .elementor-element.elementor-element-408c1d58,
+.elementor-1021 .elementor-element.elementor-element-408c1d58::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-408c1d58.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-1021 .elementor-element.elementor-element-209ab9a0 {
+    column-gap: 0px;
+    color: #ffffff;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-1021 .elementor-element.elementor-element-3ecf91d1 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --margin-block-start: 0%;
+    --margin-block-end: 0%;
+    --margin-inline-start: 0%;
+    --margin-inline-end: 0%;
+    --padding-block-start: 2%;
+    --padding-block-end: 2%;
+    --padding-inline-start: 2%;
+    --padding-inline-end: 2%;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-3ecf91d1:not(
+        .elementor-motion-effects-element-type-background
+    ),
+.elementor-1021
+    .elementor-element.elementor-element-3ecf91d1
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-color: #ffffff;
+}
+
+.elementor-1021 .elementor-element.elementor-element-3ecf91d1,
+.elementor-1021 .elementor-element.elementor-element-3ecf91d1::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-3ecf91d1.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-1021 .elementor-element.elementor-element-4954bff7 {
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-1021 .elementor-element.elementor-element-512be52f {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.9;
+    --padding-block-start: 2%;
+    --padding-block-end: 2%;
+    --padding-inline-start: 2%;
+    --padding-inline-end: 2%;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-512be52f:not(
+        .elementor-motion-effects-element-type-background
+    ),
+.elementor-1021
+    .elementor-element.elementor-element-512be52f
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-color: #1d5c7c;
+    background-image: url("https://www.laportapottyrental.com/wp-content/uploads/los-angeles-party-rental-porta-potty.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-1021 .elementor-element.elementor-element-512be52f::before,
+.elementor-1021
+    .elementor-element.elementor-element-512be52f
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-512be52f
+    > .e-con-inner
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-512be52f
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-512be52f
+    > .e-con-inner
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-512be52f
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer::before {
+    --background-overlay: "";
+    background-color: #1d5c7c;
+}
+
+.elementor-1021 .elementor-element.elementor-element-512be52f,
+.elementor-1021 .elementor-element.elementor-element-512be52f::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-512be52f.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-1021 .elementor-element.elementor-element-24e07ff0 {
+    color: #ffffff;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-1021 .elementor-element.elementor-element-6eb6560a {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --padding-block-start: 2%;
+    --padding-block-end: 2%;
+    --padding-inline-start: 2%;
+    --padding-inline-end: 2%;
+}
+
+.elementor-1021 .elementor-element.elementor-element-6eb6560a.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-1021 .elementor-element.elementor-element-17145011 {
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-1021 .elementor-element.elementor-element-3360553c {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.8;
+    --margin-block-start: 2%;
+    --margin-block-end: 0%;
+    --margin-inline-start: 0%;
+    --margin-inline-end: 1%;
+    --padding-block-start: 2%;
+    --padding-block-end: 2%;
+    --padding-inline-start: 2%;
+    --padding-inline-end: 2%;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-3360553c:not(
+        .elementor-motion-effects-element-type-background
+    ),
+.elementor-1021
+    .elementor-element.elementor-element-3360553c
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-color: #1d5c7c;
+    background-image: url("https://www.laportapottyrental.com/wp-content/uploads/los-angeles-event-porta-potty-rental.jpg");
+    background-size: cover;
+}
+
+.elementor-1021 .elementor-element.elementor-element-3360553c::before,
+.elementor-1021
+    .elementor-element.elementor-element-3360553c
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-3360553c
+    > .e-con-inner
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-3360553c
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-3360553c
+    > .e-con-inner
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-3360553c
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer::before {
+    --background-overlay: "";
+    background-color: #1d5c7c;
+}
+
+.elementor-1021 .elementor-element.elementor-element-3360553c,
+.elementor-1021 .elementor-element.elementor-element-3360553c::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-3360553c.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-1021 .elementor-element.elementor-element-62b19e19 {
+    color: #ffffff;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-1021 .elementor-element.elementor-element-2003869e {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.9;
+    --margin-block-start: 2%;
+    --margin-block-end: 0%;
+    --margin-inline-start: 1%;
+    --margin-inline-end: 0%;
+    --padding-block-start: 2%;
+    --padding-block-end: 2%;
+    --padding-inline-start: 2%;
+    --padding-inline-end: 2%;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-2003869e:not(
+        .elementor-motion-effects-element-type-background
+    ),
+.elementor-1021
+    .elementor-element.elementor-element-2003869e
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-color: #2e87ad;
+    background-image: url("https://www.laportapottyrental.com/wp-content/uploads/los-angeles-family-events.jpg");
+    background-size: cover;
+}
+
+.elementor-1021 .elementor-element.elementor-element-2003869e::before,
+.elementor-1021
+    .elementor-element.elementor-element-2003869e
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-2003869e
+    > .e-con-inner
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-2003869e
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-2003869e
+    > .e-con-inner
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-2003869e
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer::before {
+    --background-overlay: "";
+    background-color: #2e87ad;
+}
+
+.elementor-1021 .elementor-element.elementor-element-2003869e,
+.elementor-1021 .elementor-element.elementor-element-2003869e::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-2003869e.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-1021 .elementor-element.elementor-element-7876614a {
+    color: #ffffff;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-1021 .elementor-element.elementor-element-5ae543dd {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc(
+        (1 - var(--container-widget-flex-grow)) * 100%
+    );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: center;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --padding-block-start: 5%;
+    --padding-block-end: 5%;
+    --padding-inline-start: 0%;
+    --padding-inline-end: 0%;
+}
+
+.elementor-1021 .elementor-element.elementor-element-805cb99 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc(
+        (1 - var(--container-widget-flex-grow)) * 100%
+    );
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --align-items: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-6cb571c2 {
+    text-align: left;
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-6cb571c2
+    .elementor-heading-title {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 40px;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-6cb571c2.elementor-element {
+    --flex-grow: 1;
+    --flex-shrink: 0;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-5157b1ce
+    .elementor-accordion-item {
+    border-width: 0px;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-5157b1ce
+    .elementor-accordion-item
+    .elementor-tab-content {
+    border-width: 0px;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-5157b1ce
+    .elementor-accordion-item
+    .elementor-tab-title.elementor-active {
+    border-width: 0px;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-5157b1ce
+    .elementor-active
+    .elementor-accordion-icon,
+.elementor-1021
+    .elementor-element.elementor-element-5157b1ce
+    .elementor-active
+    .elementor-accordion-title {
+    color: #246a88;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-5157b1ce
+    .elementor-active
+    .elementor-accordion-icon
+    svg {
+    fill: #246a88;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-5157b1ce
+    .elementor-accordion-title {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-5157b1ce
+    .elementor-tab-content {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-5157b1ce.elementor-element {
+    --align-self: center;
+}
+
+.elementor-1021 .elementor-element.elementor-element-c8ae108 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-3b2c0881 {
+    text-align: center;
+}
+
+.elementor-1021 .elementor-element.elementor-element-3b2c0881 img {
+    width: 100%;
+}
+
+.elementor-1021 .elementor-element.elementor-element-59670827 {
+    /* --display:flex; */
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-59670827.e-con {
+    --align-self: center;
+}
+
+.elementor-1021 .elementor-element.elementor-element-2abf588 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --padding-block-start: 0%;
+    --padding-block-end: 0%;
+    --padding-inline-start: 2%;
+    --padding-inline-end: 2%;
+}
+
+.elementor-1021 .elementor-element.elementor-element-2abf588.e-con {
+    --align-self: center;
+}
+
+.elementor-1021 .elementor-element.elementor-element-75d02ff2 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-75d02ff2.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-1021 .elementor-element.elementor-element-7ddf3255 {
+    text-align: center;
+}
+
+.elementor-1021 .elementor-element.elementor-element-176c2933 {
+    text-align: center;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.elementor-1021 .elementor-element.elementor-element-17b3dd38 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-3c60c0a5 iframe {
+    height: 500px;
+}
+
+.elementor-1021 .elementor-element.elementor-element-3c60c0a5 {
+    width: 100%;
+    max-width: 100%;
+}
+
+.elementor-1021 .elementor-element.elementor-element-22b9a695 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.79;
+    --padding-block-start: 08%;
+    --padding-block-end: 8%;
+    --padding-inline-start: 0%;
+    --padding-inline-end: 0%;
+}
+
+.elementor-1021
+    .elementor-element.elementor-element-22b9a695:not(
+        .elementor-motion-effects-element-type-background
+    ),
+.elementor-1021
+    .elementor-element.elementor-element-22b9a695
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-image: url("https://www.laportapottyrental.com/wp-content/uploads/Los-angeles-porta-potty-rental-areas-we-serve.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-1021 .elementor-element.elementor-element-22b9a695::before,
+.elementor-1021
+    .elementor-element.elementor-element-22b9a695
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-22b9a695
+    > .e-con-inner
+    > .elementor-background-video-container::before,
+.elementor-1021
+    .elementor-element.elementor-element-22b9a695
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-22b9a695
+    > .e-con-inner
+    > .elementor-background-slideshow::before,
+.elementor-1021
+    .elementor-element.elementor-element-22b9a695
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer::before {
+    --background-overlay: "";
+    background-color: #000000;
+}
+
+.elementor-1021 .elementor-element.elementor-element-22b9a695,
+.elementor-1021 .elementor-element.elementor-element-22b9a695::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1021 .elementor-element.elementor-element-2d3c2ef9 {
+    text-align: center;
+    color: #ffffff;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+@media (min-width: 768px) {
+    .elementor-1021 .elementor-element.elementor-element-4b3a1e63 {
+        --width: 50%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-57f06447 {
+        --width: 50%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-507bf52e {
+        --width: 97.537%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-56773e99 {
+        --width: 50%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-37baf962 {
+        --width: 50%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-14ce747b {
+        --width: 33.3333%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-4d777f90 {
+        --width: 33.3333%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-2e8d577a {
+        --width: 33.3333%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-3ff99a30 {
+        --width: 50%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-1a59e3dd {
+        --width: 50%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-4e7e3c7d {
+        --width: 66.6666%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-aecf2cb {
+        --width: 33.3333%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-408c1d58 {
+        --width: 25%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-3ecf91d1 {
+        --width: 25%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-512be52f {
+        --width: 25%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-6eb6560a {
+        --width: 25%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-3360553c {
+        --width: 48%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-2003869e {
+        --width: 50%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-805cb99 {
+        --width: 50%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-c8ae108 {
+        --width: 50%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-2abf588 {
+        --width: 50%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-17b3dd38 {
+        --width: 50%;
+    }
+}
+
+@media (max-width: 767px) {
+    .elementor-1021 .elementor-element.elementor-element-4fa5b7d3 {
+        --margin-block-start: 0px;
+        --margin-block-end: -50px;
+        --margin-inline-start: 0px;
+        --margin-inline-end: 0px;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-4b3a1e63 {
+        --padding-block-start: 10%;
+        --padding-block-end: 0%;
+        --padding-inline-start: 0%;
+        --padding-inline-end: 0%;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-4f8c578c {
+        text-align: center;
+        font-size: 48px;
+        line-height: 1em;
+    }
+
+    .elementor-1021
+        .elementor-element.elementor-element-4f8c578c
+        > .elementor-widget-container {
+        margin: 0px 0px -20px 0px;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-2e9427a7 {
+        text-align: center;
+        font-size: 37px;
+        line-height: 1em;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-6a4fcefb {
+        text-align: center;
+    }
+
+    .elementor-1021
+        .elementor-element.elementor-element-6a4fcefb
+        > .elementor-widget-container {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-18886efd {
+        text-align: center;
+    }
+
+    .elementor-1021
+        .elementor-element.elementor-element-7e7a3f6a.elementor-arrows-yes
+        .elementor-main-swiper {
+        width: calc(350px - 40px);
+    }
+
+    .elementor-1021
+        .elementor-element.elementor-element-7e7a3f6a
+        .elementor-main-swiper {
+        width: 350px;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-6cb571c2 {
+        text-align: center;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-3c60c0a5 iframe {
+        height: 300px;
+    }
+
+    .elementor-1021 .elementor-element.elementor-element-2d3c2ef9 {
+        font-size: 17px;
+    }
+
+    .elementor-1021
+        .elementor-element.elementor-element-2d3c2ef9
+        > .elementor-widget-container {
+        padding: 10px 10px 10px 10px;
+    }
+}
+
+/* Start custom CSS for container, class: .elementor-element-4fa5b7d3 */
+.no-padding p {
+    padding-bottom: 0px;
+}
+
+.no-padding {
+    border-bottom: 9em solid #246a88;
+}
+
+/* End custom CSS */
